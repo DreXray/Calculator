@@ -1,0 +1,21 @@
+body {
+    margin: 2% auto;
+    width: 20%;
+    height: 35%;
+    border: gray double 5pt;
+    border-radius: 5pt;
+    padding: 10px;
+}
+button{
+ display: grid;
+ grid-template-columns: 100px;
+ grid-template-rows: 1fr;
+ margin-bottom: 5%;
+ margin-left: 28%;
+ background-color: tomato;
+ 
+}
+form{
+    display: grid;
+    margin: 5%;
+}
